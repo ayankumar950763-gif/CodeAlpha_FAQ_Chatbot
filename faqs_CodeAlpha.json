@@ -1,0 +1,17 @@
+[
+  {"question": "How can I track my order?", "answer": "Go to 'My Orders' in your account and click 'Track Order'. You will also get a tracking link by email once your order ships."},
+  {"question": "What is your return policy?", "answer": "You can return most items within 30 days of delivery in original condition. Go to 'My Orders' and click 'Return Item' to start."},
+  {"question": "How long does shipping take?", "answer": "Standard shipping takes 3-7 business days. Express shipping takes 1-2 business days."},
+  {"question": "How much does shipping cost?", "answer": "Shipping is free on orders above $50. Otherwise standard shipping costs $4.99 and express costs $12.99."},
+  {"question": "What payment methods do you accept?", "answer": "We accept credit/debit cards, UPI, net banking, PayPal and cash on delivery for eligible orders."},
+  {"question": "How do I cancel my order?", "answer": "You can cancel from 'My Orders' before the order is shipped. After shipping, you'll need to return it instead."},
+  {"question": "How do I reset my password?", "answer": "Click 'Forgot Password' on the login page, enter your email, and follow the reset link we send you."},
+  {"question": "How do I create an account?", "answer": "Click 'Sign Up' at the top right, enter your name, email and a password, then verify your email address."},
+  {"question": "When will I get my refund?", "answer": "Refunds are processed within 5-7 business days after we receive your returned item, to your original payment method."},
+  {"question": "Do you ship internationally?", "answer": "Yes, we ship to over 50 countries. International delivery takes 7-14 business days and customs duties may apply."},
+  {"question": "How can I contact customer support?", "answer": "Email support@example.com or use live chat on our website, available 9 AM - 9 PM, Monday to Saturday."},
+  {"question": "Can I change my delivery address?", "answer": "You can change the address from 'My Orders' before the order ships. Contact support if it has already shipped."},
+  {"question": "Do you offer gift cards?", "answer": "Yes! Digital gift cards from $10 to $500 are available on our Gift Cards page and are delivered by email instantly."},
+  {"question": "How do I use a discount coupon code?", "answer": "Enter your coupon code in the 'Promo Code' box at checkout and click 'Apply'. Only one code can be used per order."},
+  {"question": "What if I receive a damaged or wrong item?", "answer": "We're sorry about that! Contact support within 7 days with a photo of the item and your order number, and we'll send a replacement or refund."}
+]
